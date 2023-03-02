@@ -21,7 +21,15 @@ public class Lab {
      */
     public int ifExample(boolean bool,  int x, int y){
         return  0;
-    } elseIF ifExample(boolean bool, int x, inty){
-        return 1;
+
+    } 
+    public int elseExample( int x){
+        return x;
+    
     }
-}
+    public int elseifExample( int y){
+        return y;
+    }
+
+    }
+    
