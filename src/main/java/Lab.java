@@ -23,11 +23,11 @@ public class Lab {
         return  0;
 
     } 
-    public int elseExample( int x){
+    public int elseExample(boolean bool, int x){
         return x;
     
     }
-    public int elseifExample( int y){
+    public int elseifExample(boolean bool, int y){
         return y;
     }
 
