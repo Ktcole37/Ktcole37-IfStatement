@@ -20,6 +20,8 @@ public class Lab {
      * @return x if bool is true. if bool is false, return y.
      */
     public int ifExample(boolean bool,  int x, int y){
-        return x ;
+        return  0;
+    } elseIF ifExample(boolean bool, int x, inty){
+        return 1;
     }
 }
